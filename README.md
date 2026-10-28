@@ -1,3 +1,10 @@
+## ini cmd saya
+
+<img src="Screenshot%202026-10-28%20084647.png" width="500">
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
